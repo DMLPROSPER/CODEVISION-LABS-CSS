@@ -1,0 +1,51 @@
+nav{
+	font-size:20px ;
+	color:20px solid-red ;
+	padding:10px ;
+}
+img{
+	padding-left:1px ;
+
+}
+h2{
+	padding-left:180px ;
+	padding-bottom:1px ;
+}
+.web p{
+	padding-left:30px ;
+
+
+}
+
+
+
+.web h2{
+	text-decoration:underline ;
+	padding-left:75px ;
+	color:black ;
+}
+.web{
+	color:white ;
+	background-color:darkred ;
+	border-radius:20px ;
+	border:2px solid darkred ;
+	padding-left:50px ;
+	padding-right:50px ;
+	margin:20px ;
+	
+}
+#footer{
+	color:white ;
+	background-color:black ;
+	padding-left:664px ;
+	padding-right:8px ;
+	padding-bottom:56px ;
+	padding-top:56px ;
+}
+
+
+
+
+
+
+
